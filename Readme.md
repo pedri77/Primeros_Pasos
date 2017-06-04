@@ -15,9 +15,9 @@ CÓDIGO CON HTML5 Y CSS3
 También utilizaremos esta herramienta de google a través de su CDN
 
 - Esto es el código:
-  - HTML5.
+  - [HTML5](https://www.w3schools.com/html/html5_intro.asp)
   
-  - CSS3.
+  - [CSS3](https://www.w3schools.com/css/default.asp)
     
   - [GOOGLE FONTS](https://fonts.google.com/)
    
