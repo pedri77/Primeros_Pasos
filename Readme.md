@@ -22,9 +22,8 @@ También utilizaremos esta herramienta de google a través de su CDN
   - HTML5.
   
   - CSS3.
-  
-  
-  [GOOGLE FONTS](https://fonts.google.com/)
+    
+  - [GOOGLE FONTS](https://fonts.google.com/)
    
   [Preguntas frecuentes para Google Fonts](https://developers.google.com/fonts/faq)
   
