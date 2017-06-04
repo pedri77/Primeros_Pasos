@@ -33,6 +33,5 @@ También utilizaremos esta herramienta de google a través de su CDN
   
   ** Y como no
   
-  [GitHub Pages](https://0ebdc219a6018a0b4949-5cd5d2f3f64eaf0eb4e05aee819f5378.ssl.cf5.rackcdn.com/workflows/deploy-to-github-pages/cover-deploy-to-github-pages.png)
-
-
+  [GitHubPages](https://pages.github.com/)
+  ![GitHub Pages](https://0ebdc219a6018a0b4949-5cd5d2f3f64eaf0eb4e05aee819f5378.ssl.cf5.rackcdn.com/workflows/deploy-to-github-pages/cover-deploy-to-github-pages.png)
