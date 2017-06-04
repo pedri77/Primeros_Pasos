@@ -18,8 +18,34 @@ Practicaremos algunas técnicos de CSS3 para maquetar la web
 
 También utilizaremos esta herramienta de google a través de su CDN
 
-- Esto es viñeta 1.
-  - Viñeta 1.1 con sangria.
-  - Viñeta N.
+- Esto es el código:
+  - HTML5.
+  <html>
+    <!--Así se ponen los comentarios-->
+    <!--Cabecera-->
+    <head>
+    </head>
+    <!--Cuerpo-->
+    <body>
+    </body>
+    <!--Pie de página-->
+    <footer>
+    </footer>
+  </html>
+  - CSS3.
+  
+  - GOOGLE FONTS.
+  [GOOGLE FONTS](https://fonts.google.com/)
+  ** Preguntas frecuentes:
+  
+  [Preguntas frecuentes](https://developers.google.com/fonts/faq)
+  
+  - FONT AWESOME.
+  
+  [FONT AWESOME](http://fontawesome.io/)
+  
+  [Get Starter](http://fontawesome.io/get-started/)
+  
+  
 
 
