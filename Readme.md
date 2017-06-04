@@ -5,6 +5,7 @@
 ## CSS3
 
 ![CSS3](https://rolandocaldas.com/wp-content/uploads/2013/05/css3.png)
+
 Practicaremos algunas técnicos de CSS3 para maquetar la web
 
 ## Font Awesome para incluir iconos y otros elementos
