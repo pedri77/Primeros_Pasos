@@ -1,12 +1,8 @@
 # **Primeros pasos es un ejemplo de web para practicar FrontEnd**
 
-![HTML5](https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png)
+![HTML5 y CSS3](http://nubeser.com/wp-content/uploads/2014/03/dise%C3%B1o-web-con-html5-y-css31.jpg)
 
-## CSS3
-
-![CSS3](https://rolandocaldas.com/wp-content/uploads/2013/05/css3.png)
-
-Practicaremos algunas técnicos de CSS3 para maquetar la web
+CÓDIGO CON HTML5 Y CSS3
 
 ## Font Awesome para incluir iconos y otros elementos
 
