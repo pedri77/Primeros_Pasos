@@ -20,31 +20,17 @@ También utilizaremos esta herramienta de google a través de su CDN
 
 - Esto es el código:
   - HTML5.
-  <html>
-    <!--Así se ponen los comentarios-->
-    <!--Cabecera-->
-    <head>
-    </head>
-    <!--Cuerpo-->
-    <body>
-    </body>
-    <!--Pie de página-->
-    <footer>
-    </footer>
-  </html>
+  
   - CSS3.
   
-  - GOOGLE FONTS.
+  
   [GOOGLE FONTS](https://fonts.google.com/)
-  ** Preguntas frecuentes:
+   
+  [Preguntas frecuentes para Google Fonts](https://developers.google.com/fonts/faq)
   
-  [Preguntas frecuentes](https://developers.google.com/fonts/faq)
+  - [FONT AWESOME](http://fontawesome.io/)
   
-  - FONT AWESOME.
-  
-  [FONT AWESOME](http://fontawesome.io/)
-  
-  [Get Starter](http://fontawesome.io/get-started/)
+  [Get Starter con Font Awesome](http://fontawesome.io/get-started/)
   
   
 
